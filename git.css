@@ -1,12 +1,16 @@
 body {
     font-family: Verdana, Helvetica, sans-serif;
 }
+div {
+    display: flex;
+    align-content: center;
+}
 table, th, td {
     border: 1px solid;
-    border-collapse: collapse;text-align: left;
+    border-collapse: collapse;
     padding: 15px;
 }
 thead {
     background-color: cadetblue
 }
-
+table {margin: auto;}
