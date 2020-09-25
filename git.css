@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;text-align: left;
+    padding: 15px;
+}
+thead {
+    background-color: cadetblue
+}
+
